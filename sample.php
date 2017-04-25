@@ -1,6 +1,6 @@
 switch (k){
 case "add":
-	pass;
+	return ($x + $y);
 	break;
 case "subtract":
 	pass;
