@@ -3,7 +3,7 @@ case "add":
 	pass;
 	break;
 case "subtract":
-	pass;
+	return($x-$y);
 case "multiplay":
 	pass;
 case "divide":
