@@ -5,7 +5,7 @@ case "add":
 case "subtract":
 	return($x-$y);
 case "multiplay":
-	pass;
+	return($x * $y);
 case "divide":
 	pass;
 }
