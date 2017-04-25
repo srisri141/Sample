@@ -6,6 +6,6 @@ case "subtract":
 	pass;
 case "multiplay":
 	pass;
-case "divide":
+case "divi":
 	return ($x / $y);
 }
